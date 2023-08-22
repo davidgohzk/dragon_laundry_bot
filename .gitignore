@@ -1,4 +1,8 @@
 __pycharm__/
+<<<<<<< HEAD
 .idea/
 __pycache__
 .env
+=======
+.idea/
+>>>>>>> 8dcffbea178c3d8c247f8c417812ec2b941798d4
